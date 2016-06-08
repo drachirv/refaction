@@ -1,8 +1,5 @@
 namespace refactor_me.Models
 {
-    using System;
-    using System.Collections.Generic;
-    
     public partial class ProductOption
     {
         public System.Guid Id { get; set; }
